@@ -111,7 +111,7 @@ test:
 
 `docker-compose run web rake db:create`
 
-10. Add sidekiq and gem
+10. Add sidekiq to Gemfile
 
 `gem 'sidekiq'`
 
